@@ -1,1 +1,1 @@
-HTML CSS JS exploratory code.
+HTML CSS JS exploratory login page code.
