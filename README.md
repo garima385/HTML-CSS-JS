@@ -1,1 +1,1 @@
-# htmlcssbasic
+HTML CSS JS exploratory code.
